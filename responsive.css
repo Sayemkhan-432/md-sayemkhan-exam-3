@@ -1,0 +1,212 @@
+
+@media all and (max-width:1200px){
+    .our-servise-text {
+        padding: 15px 10px;
+    }
+    .our-servise-right-text h4 {
+        font-size: 18px;
+    }
+    .card-body h5 {
+        font-weight: 500;
+    }
+    .why-chose-us-left {
+        margin-right: 11px;
+    }
+    .testimonial-info img {
+        left: 42%;
+    }
+    .about-img img {
+        width: 377px;
+    }
+    .about-img .iner-img img {
+        width: 227px;
+        right: -18px;
+        bottom: -44px;
+    }
+    .chamical-section {
+        position: relative;
+        top: 0;
+        left: 0;
+       
+    }
+    .about-us-section {
+        margin-top: 0px;
+    }
+    /* banner start */
+    .banner-aria .details h2 {
+        font-size: 2.2rem;
+    }
+    .banner-aria .details p {
+        font-size: 0.8rem;
+    }
+    /* banner end */
+}
+@media (max-width:1000px){
+    .container{
+        width: 100% ;
+        margin: auto;
+    }
+    .banner-aria .carousel-caption h2 {
+        font-size: 2rem;
+        font-weight: 600;
+    }
+    .winning-text h5 {
+        font-size: 14px;
+    }
+    .winning-text h2 {
+        font-size: 35px;
+    }
+   
+}
+
+@media all and (max-width:995px){
+    .top-header {
+        display: none;
+    }
+    .news-section .card-title {
+        font-size: 14px;
+    }
+    .news-header h6 {
+        padding: 7px 10px;
+    }
+    .card-body {
+        padding: 1rem 7px;
+    }
+    .icon {
+        width: 100px;
+    }
+    .social-icon ul li a {
+        width: 33px;
+        height: 33px;
+        line-height: 33px;
+    }
+    .about-right h2 {
+        font-size: 25px;
+    }
+    .about-img img {
+        width: 100%;
+    }
+    .about-img .iner-img img {
+        width: 291px;
+    }
+    .about-img .iner-img img {
+        width: 155px;
+        right: -22px;
+        bottom: -21px;
+    }
+    .about-img .iner-img img {
+        width: 155px;
+        right: 89px;
+        bottom: -21px;
+    }
+}
+
+@media all and (max-width:986px){
+    .about-us-section {
+        margin-top:0;
+    }
+}
+
+
+@media all and (max-width:890px) {
+    .banner-aria .details h2 {
+        font-size: 1.8rem;
+    }
+    .banner-aria .details p {
+        font-size: 0.8rem;
+        padding: 17px 0 !important;
+    }
+}
+@media all and (max-width:770px){
+    .our-servise-ikon {
+        width: 40px;
+        height: 40px;
+        line-height: 37px;
+        margin-right: 8px;
+    }
+    .our-servise-right-text h4 {
+        font-size: 15px;
+    }
+    .our-servise-text p {
+        font-size: 13px;
+    }
+    .our-servise-text a {
+        font-weight: 400;
+        font-size: 12px;
+    }
+    .testimonial-text h2 {
+        font-size: 30px;
+    }
+    .testimonial-info img {
+        left: 37%;
+    }
+    .about-us-section {
+        margin-top: 0px;
+    }
+
+}
+@media all and (max-width:767px){
+    .about-img .iner-img img {
+        right: 210px;
+    }
+   
+}
+@media all and (max-width:764px){
+    .chamical-section {
+        left: 16px;
+    }
+}
+
+@media all and (max-width:694px) {
+    .banner-aria .details {
+        top: 17%;
+    }
+    .banner-aria .details h2 {
+        font-size: 1.3rem;
+    }
+    .banner-aria .details p {
+        font-size: 0.7rem;
+        padding: 6px 0 !important;
+    }
+    .banner-aria .details {
+        width: 75%;
+        left: 14%;
+    }
+}
+
+
+
+@media all and (max-width:576px){
+ 
+}
+@media all and (max-width:578px){
+    .our-servise-text p {
+        margin-bottom: 5px;
+    }
+    .testimonial-text h2 {
+        font-size: 25px;
+    }
+    .about-img .iner-img img {
+        right: 252px;
+    }
+    
+}
+@media all and (max-width:570px){
+    .about-img .iner-img img {
+        right: 232px;
+    }
+}
+
+@media all and (max-width:480px) {
+    .banner-aria .details {
+        width: 90%;
+        left: 5%;
+        top: 5%;
+    }
+}
+
+@media all and (min-width:575px) {
+    .chamical-all {
+        margin-bottom: 14px !important;
+    }
+}
